@@ -1,0 +1,133 @@
+
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    background-color: #F24F4F;
+}
+
+.header{
+    width: 1418px;
+    height: 64px;
+    margin: 54px 155px  ;
+    display: flex;
+    justify-content: space-between;
+}
+.Header_list{
+    display: flex;
+    gap: 90px;
+    position: absolute;
+    width: 62px;
+    height: 36px;
+    left: 680px;
+    top: 14px;
+    color: rgb(28, 20, 21);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin: 54px 0 0 600px;
+
+}
+.body_main{
+    display: flex;
+}
+
+.btn{
+
+    padding: 4px 58px 4px 58px;
+    border-radius: 50px;
+    background: rgb(28, 20, 21);
+    color: white;
+}
+.swiper{
+    width: 500px;
+    height: 620px;
+    margin: 276px 232px 222px 997px;
+}
+.imgswipper{
+    width: 499px;
+    height: 619px;
+    top: 276px;
+    left: 997px;
+    
+}
+
+.h1{
+    width: 613px;
+    height: 104px;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 137%;
+    letter-spacing: -1%;
+    text-align: left;
+    margin: 144px 0 0 0;
+}
+.h2{
+    width: 598px;
+    height: 60px;
+    left: 0;
+    top: 110px;
+    font-size: 42px;
+    font-weight: 900;
+    line-height: 115.5%;
+    letter-spacing: -1%;
+    text-align: left;
+    color: white;
+    margin: 0 0 0 0;
+
+}
+
+.header-content_text{
+   margin: 262px 229px 333px 0;
+
+}
+.p{
+    width: 613px;
+    height: 138px;
+    left: 0;
+    top: 240px;
+    color: rgba(28, 20, 21, 0.8);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin: 70px 0 0 0;
+    
+}
+.Price{
+    width: 286px;
+    height: 96px;
+    left: 0;
+    top: 426px;
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 137%;
+    letter-spacing: -1%;
+    text-align: left;
+    margin: 48px 0 0 155px;
+}
+.img{
+    width: 240px;
+    height: 60px;
+    left: 155px;
+    top: 853px;
+    margin: 69px 0 0 155px;
+}
+
+.header-content_swipper{
+    margin:  0 300px 0 0 ;
+}
+.header-content{ 
+    display: flex;
+     justify-content: space-between;
+}
+ 
